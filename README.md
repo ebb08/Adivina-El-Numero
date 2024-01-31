@@ -13,3 +13,7 @@
 - Contador de intentos: El juego realiza un seguimiento de cuántos intentos te toma adivinar el número secreto.
 - Pistas útiles: Recibirás pistas sobre si el número secreto es mayor o menor que tu elección actual.
 - Divertido y desafiante: ¡Disfruta del proceso de adivinanza y desafía a tus amigos a superar tu récord!
+
+https://ebb08.github.io/Adivina-El-Numero/
+
+(./assets/readme.png)
