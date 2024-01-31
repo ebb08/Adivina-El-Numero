@@ -16,4 +16,4 @@
 
 https://ebb08.github.io/Adivina-El-Numero/
 
-(./assets/readme.png)
+![El mejor juego](./assets/readme.png)
